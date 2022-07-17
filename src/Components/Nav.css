@@ -1,0 +1,38 @@
+.nav-main{
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.8);
+    height: 60px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-header{
+    color: white;
+    padding: 15px 20px;
+}
+
+.search-container{
+    padding: 15px 20px;
+}
+
+.search-bar{
+    padding: 2px 200px;
+}
+
+.search-icon{
+    font-size: 15px;
+}
+
+.nav-list{
+    display: flex;
+    padding: 10px ;   
+}
+
+li{
+    margin: 10px;
+    list-style: none;
+    color: #fff;
+    cursor: pointer;
+    
+}
+

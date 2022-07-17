@@ -1,0 +1,49 @@
+.form-main{
+    background: #ecf0f3;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 14px 14px 20px #cbced1, -14px -14px 20px white;
+}
+
+.form-container{
+    color: #ac40ab;
+    text-align: center;
+    line-height: 100px;
+    margin: 0 auto 15px;
+    border-radius: 50px;
+    box-shadow: 7px 7px 10px #cbced1, -7px -7px 10px #fff ;
+}
+
+.form-container-title{
+    color: #ac40ab;
+    font-size: 25px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-align: center;
+    margin: 0 0 20px ;
+}
+
+.form-group{
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.form-btn{
+    color: #000;
+    background-color: #ac40ab;
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+    width: 100%;
+    padding: 12px 15px 11px;
+    border: none;
+}
+
+button{
+    font-size: 15px;
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 10px;
+}

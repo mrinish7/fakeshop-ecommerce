@@ -1,0 +1,41 @@
+.form-container{
+    font: bold;
+    width: 100%;
+    display: inline-block;
+    background: #ecf0f3;
+    
+}
+
+.title{
+    color: #ac40ab;
+    font-size: 25px;
+    margin: 0 0 35px;
+}
+
+.form-control{
+    color: #000;
+    background-color: transparent;
+    padding: 5px 0px;
+    margin-bottom: 33px;
+    border: none;
+    border-bottom: 1px solid black rgba(225, 225, 225, .2);
+    border-radius: 0;
+    
+}
+
+.form-group ::placeholder{
+    color: #000;
+    background-color: #fff;
+    font-size: 16px;
+    font-weight: 400;    
+    
+}
+
+.form-btn{
+    color: #fff;
+    font-size: 18px;
+    letter-spacing: 1px;
+    padding: 0px 25px;
+    border: none;
+    transition: all .4s ease;
+}

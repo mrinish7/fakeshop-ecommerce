@@ -1,0 +1,35 @@
+.product-info-container{
+    display: flex;
+    padding-bottom: 30px;
+}
+
+.product-image-container{
+    padding-top: 25px;
+    display: flex;
+}
+
+.product-image{
+    width: 500px;
+    padding-left: 20px;
+}
+.product-description-container{
+    padding: 0 0 0 150px;
+    text-align: left;
+    padding-top: 10px;
+}
+
+.product-title{
+    text-align: center;
+    padding: 25px;
+    font-size: 40px;
+}
+
+.product-description-{
+    padding-top: 100px;
+    padding-bottom: 30px;
+}
+
+.product-rating-rate{
+    padding-top: 20px;
+    padding-bottom: 30px;
+}

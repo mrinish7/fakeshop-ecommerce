@@ -1,0 +1,58 @@
+.main-container{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 30px;
+    justify-content: center;
+}
+
+.card-container{
+    width: 21%;
+    margin: 20px;
+    /* padding: 30px; */
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.308);    
+    text-align: center;
+    border-radius: 1px solid #ddd;
+}
+
+.card-image{
+    margin-top: 50px;
+    height: 250px;
+    width: 250px;
+}
+
+.card-title{
+    margin: 5px 10px;
+}
+
+.card-rating-container{
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.card-rating{
+    background-color: #388e3c;
+    margin: 5px 10px;
+    color: #fff;
+    padding: 5px;
+}
+
+.card-price-container{
+    display: block;
+    margin-top: 20px;
+}
+
+.card-price{
+    
+    font-size: larger;
+}
+
+.btn-details-container{
+    display: block;
+    margin-top: 10px;
+}
+
+.btn-details{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    color: rgba(0, 0, 0, 0.8);
+}
