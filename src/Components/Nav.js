@@ -13,7 +13,7 @@ const Nav = () => {
             <h2 className="nav-header">Fake Shop</h2>
             <div className='search-container'>
                 <input className='search-bar' />
-                <button className='search-icon'>🔍</button>
+                <button className='search-icon'>Search</button>
             </div>
             <ul className='nav-list'>
                 <a onClick={() => Login('user-login')} ><li>Login</li></a>
